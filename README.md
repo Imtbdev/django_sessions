@@ -8,27 +8,27 @@ This project helps you understand how Django stores, accesses, and deletes sessi
 ## 🍪 Checking Cookie Support
 
 ### ▶️ Set a Test Cookie
-![Test Cookie](https://github.com/Imtbdev/django_sessions/blob/main/Images/testcookie.png?raw=true)
+![Test Cookie](https://github.com/Imtbdev/django_sessions/blob/main/images/testcookie.png?raw=true)
 
 ### ❌ Delete the Test Cookie
-![Delete Cookie](https://github.com/Imtbdev/django_sessions/blob/main/Images/deletecookie.png?raw=true)
+![Delete Cookie](https://github.com/Imtbdev/django_sessions/blob/main/images/deletecookie.png?raw=true)
 
 ---
 
 ## 🧾 Creating and Accessing Sessions
 
 ### 🆕 Create a Session
-![Create Session](https://github.com/Imtbdev/django_sessions/blob/main/Images/create.png?raw=true)
+![Create Session](https://github.com/Imtbdev/django_sessions/blob/main/images/create.png?raw=true)
 
 ### 🔍 Access Session Data
-![Access Session](https://github.com/Imtbdev/django_sessions/blob/main/Images/access.png?raw=true)
+![Access Session](https://github.com/Imtbdev/django_sessions/blob/main/images/access.png?raw=true)
 
 ---
 
 ## 🧹 Deleting Session Data
 
 ### ❌ Delete Session
-![Delete Session](https://github.com/Imtbdev/django_sessions/blob/main/Images/delete.png?raw=true)
+![Delete Session](https://github.com/Imtbdev/django_sessions/blob/main/images/delete.png?raw=true)
 
 ---
 
